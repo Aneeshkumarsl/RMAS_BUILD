@@ -15,9 +15,9 @@
     "subHeader": "Housewife To Business Owner",
     "aboutMe": "Lorem ipsum dolor sit amet consectetur adipisicing elit consectetur adipisicing elit!",
     "chatBtn": "Register ",
-    "amount": "@ ₹99/-",
+    "amount": "@ ₹299/-",
     "entrolment": {
-      "register": "அடுத்த 20 நிமிடத்திற்குள் Register ",
+      "register": "அடுத்த 20 நிமிடத்திற்குள்",
       "end": "செய்யுங்கள்",
       "limitted": "Limited Seats. Enrollment closes fastly",
       "minute": "Minutes",
@@ -259,35 +259,35 @@
       {
         "title": "நிகழ்ச்சியில் கலந்துகொள்வதற்கான இணைப்பை எவ்வாறு பெறுவது ?",
         "content": "இலவச  வகுப்பு  நடக்கும்  நாட்களில் உங்கள் 'WhatsApp' எண்ணுக்கு அனுப்பபடும்",
-        "open": false
+        "open": true
       },
       {
         "title": "இந்த இலவச பயிற்சியில் கலந்து கொள்ள ஏதேனும் கட்டணம் உள்ளதா?",
         "content": "பொதுவாக  ₹999 கட்டணம் வாங்கபடும்.  ஆனால் ஆன்லைன் என்பதால் நீங்கள் இலவசமாக  கலந்து கொள்ளலாம்",
-        "open": false
+        "open": true
       }
     ],
     "right": [
       {
         "title": "இந்த ஆன்லைன் வகுப்பு, Record செய்யப்படுமா?",
         "content": "நிச்சயமாக நாங்கள் 'Recording' செய்ய மாட்டோம்.  கண்டிப்பாக நேரலையில் மட்டுமே கலந்து கொள்ள வேண்டும்",
-        "open": false
+        "open": true
       },
       {
         "title": "எந்த மொழியில் இந்த பயிற்சி நடக்கும் ?",
         "content": "இந்த பயிற்சி தமிழில் நடத்தப்படும்",
-        "open": false
+        "open": true
       },
       {
         "title": "இந்த Beautician Training முடித்த பிறகு சான்றிதழ் வழங்குவீர்களா?",
         "content": "இந்தப் Beautician Training முழுமையாக முடிப்பவகளுக்கு, கண்டிப்பாக சான்றிதழ் வழங்கப்படும்.",
-        "open": false
+        "open": true
       }
     ]
   },
   "footer": {
     "offerPrice": "Free",
-    "originalPrice": "₹999",
+    "originalPrice": "₹ 299",
     "signUp": "Sign Up Now For Workshop",
     "offer": "Offer Expires in",
     "minute": "Minutes",
@@ -504,7 +504,7 @@
   "whatWillChange": {
     "header": "இந்த RMAS Beautician Course கற்றுக் கொள்வதால் ,  உங்கள் வாழ்க்கையில் என்ன மாற்றம் ஏற்படும் ?",
     "sections": [
-      "உங்களுக்கு இனிமேல் எந்த பண பிரச்சனையும் இருக்காது.",
+      "உங்களுடைய  பணத் தேவைகள் அனைத்தும் பூர்த்தியாகும்",
       "நீங்கள் சொந்தமாக அழகு நிலையம்(Beauty Parlour) தொடங்கலாம்",
       "சொந்தமாக சுப நிகழ்ச்சிகளுக்கு  நீங்களே Beautician Makeup ஆர்டரை எடுக்கலாம்",
       "உங்கள் வீட்டு நிகழ்ச்சிகளுக்கு  நீங்களே  'Makeup' செய்து கொள்ளலாம்",
@@ -516,35 +516,37 @@
     "subHeader": "RMAS Beautician Training கற்று முடித்த எங்கள் மாணவர்களின் வெற்றிகள்",
     "videos": [
       {
-        "image": "https://img.youtube.com/vi/Ocj-WsoGI-E/0.jpg",
-        "url": "https://www.youtube.com/watch?v=Ocj-WsoGI-E",
-        "name": "Revathi Priya",
-        "desgnation": "Beautician Trainer"
-      },
-      {
-        "image": "https://img.youtube.com/vi/5nRyE5oXZ8U/0.jpg",
-        "url": "https://www.youtube.com/watch?v=5nRyE5oXZ8U",
-        "name": "Akshaya Priya",
-        "desgnation": "Beautician Trainer"
+        "image": "https://img.youtube.com/vi/e6BbUCWNbvA/0.jpg",
+        "url": "https://www.youtube.com/watch?v=e6BbUCWNbvA",
+        "name": "Mareeswari",
+        "desgnation": ""
       },
       {
         "image": "https://img.youtube.com/vi/YUBIjk057k8/0.jpg",
         "url": "https://www.youtube.com/watch?v=YUBIjk057k8",
-        "name": "Sushmitha",
-        "desgnation": "Beautician Trainer"
+        "name": "Saranya Sankar",
+        "desgnation": ""
       },
       {
-        "image": "https://img.youtube.com/vi/e6BbUCWNbvA/0.jpg",
-        "url": "https://www.youtube.com/watch?v=e6BbUCWNbvA",
-        "name": "Sushmitha",
-        "desgnation": "Beautician Trainer"
+        "image": "https://img.youtube.com/vi/5nRyE5oXZ8U/0.jpg",
+        "url": "https://www.youtube.com/watch?v=5nRyE5oXZ8U",
+        "name": "Lakshmi Deepika",
+        "desgnation": ""
+      },
+      {
+        "image": "https://img.youtube.com/vi/Ocj-WsoGI-E/0.jpg",
+        "url": "https://www.youtube.com/watch?v=Ocj-WsoGI-E",
+        "name": "Mohana S",
+        "desgnation": ""
       }
     ]
   },
   "formPopup": {
-    "header":"Want to get answers ",
-    "subHeader": "faster?",
-    "dtlHeader": "Fill out our short form brief and we are contact you soon",
+    "header":"நீங்கள் இந்த இலவச ",
+    "subHeader": "Beautician ",
+    "dtlHeader": "பயிற்சியில் சேர இப்போதே ",
+    "register": "Register ",
+    "dtl": "செய்யவும்.  உங்கள் சுய தொழில்  செய்யும் கனவை  இங்கிருந்து தொடங்குங்கள்.",
     "name": {
       "plaseHolder": "உங்கள் பெயர்/Name",
       "minLengthValidation": "Your name is required.",
