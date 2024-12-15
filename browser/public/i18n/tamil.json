@@ -68,7 +68,7 @@
     "subHeader": "Everything in the workshop is backed by Science in the Hour Online Workshop.",
     "services": [
       {
-        "image": "bridal.jpg",
+        "image": "bridal.png",
         "title": "Bridal Makeup",
         "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
         "value": "Value : ",
@@ -76,7 +76,7 @@
         "free": "Free"
       },
       {
-        "image": "facial.webp",
+        "image": "facial.png",
         "title": "Facial",
         "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
         "value": "Value : ",
@@ -84,7 +84,7 @@
         "free": "Free"
       },
       {
-        "image": "threading.jpg",
+        "image": "threading.png",
         "title": "Threading",
         "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
         "value": "Value : ",
@@ -92,7 +92,7 @@
         "free": "Free"
       },
       {
-        "image": "HairStyling.jpg",
+        "image": "HairStyling.png",
         "title": "Hair Styling",
         "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
         "value": "Value : ",
@@ -116,7 +116,7 @@
         "free": "Free"
       },
       {
-        "image": "NailArt.jpg",
+        "image": "NailArt.png",
         "title": "Nail Art",
         "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
         "value": "Value : ",
@@ -124,15 +124,15 @@
         "free": "Free"
       },
       {
-        "image": "Menicure.jpg",
-        "title": "Menicure",
+        "image": "Menicure.png",
+        "title": "Manicure",
         "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
         "value": "Value : ",
         "strikeValue": "₹2000",
         "free": "Free"
       },
       {
-        "image": "Pedicure.jpg",
+        "image": "Pedicure.png",
         "title": "Pedicure",
         "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
         "value": "Value : ",
@@ -249,7 +249,7 @@
     ]
   },
   "faq": {
-    "header": "Frequently Asked Questions",
+    "header": "அடிக்கடி கேட்கப்படும் கேள்விகள்",
     "left": [
       {
         "title": "இந்த பயிற்சி வகுப்பு எப்படி  நடைபெறும் ?",
@@ -406,7 +406,7 @@
       },
       {
         "image": "Packyalakshmi",
-        "name": "Packyalakshmi I",
+        "name": "Packyalakshmi",
         "designation": "Beautician Trainer"
       },
       {
@@ -548,12 +548,12 @@
     "register": "Register ",
     "dtl": "செய்யவும்.  உங்கள் சுய தொழில்  செய்யும் கனவை  இங்கிருந்து தொடங்குங்கள்.",
     "name": {
-      "plaseHolder": "உங்கள் பெயர்/Name",
+      "plaseHolder": "உங்கள் பெயர் / Name",
       "minLengthValidation": "Your name is required.",
       "mandatoryValidation": "Your name should be 3 character."
     },
     "phone": {
-      "plaseHolder": "வாட்ஸ்அப் எண்/WhatsApp Number",
+      "plaseHolder": "வாட்ஸ்அப் எண் / WhatsApp Number",
       "minLengthValidation": "Contact number is required.",
       "mandatoryValidation": "Contact number should be 10 digits."
     },
